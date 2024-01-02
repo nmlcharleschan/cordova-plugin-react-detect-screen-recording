@@ -1,0 +1,1 @@
+declare module 'cordova-plugin-react-detect-screen-recording'
